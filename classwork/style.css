@@ -1,0 +1,17 @@
+#first-pharagraph{
+    color: blueviolet;
+}
+#second-pharagraph{
+    color: blue;
+}
+#third-pharagraph{
+    color: aquamarine;
+}
+#button{
+    color: gold;
+    background-color: darkblue;
+    border: none;
+    width: 50px ;
+    length: 50px;
+   border-radius: 100%;
+}
